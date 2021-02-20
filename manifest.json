@@ -1,0 +1,1 @@
+{"id":"org.mustardiptv","version":"1.0.1","name":"Mustard IPTV","description":"Mustard IPTV Streams","resources":["stream","meta","catalog"],"types":["tv","channel"],"idPrefixes":["just247"],"icon":"https://mustard..surge.sh/logo.png","catalogs":[{"id":"just247cat","name":"Mustard IPTV","type":"tv"}]}
